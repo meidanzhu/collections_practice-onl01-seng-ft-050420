@@ -10,7 +10,7 @@ def sort_array_char_count(strings)
   strings.sort {|left, right| left.length <=> right.length}
 end
 
-def swap_elements_from_to(array, index, destination_index)
+def swap_elements_from_to(blake, ashley, scott)
   array[1], array[2] = array[2], array[1]
 end
 
